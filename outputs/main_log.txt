@@ -1,0 +1,17 @@
+gen    0 | best -12.7286 avg -28.8942 | div 0.97 | cov 0.63 det 0.77 feasible 0.00
+gen   10 | best +0.2526 avg -2.4805 | div 0.52 | cov 0.68 det 0.87 feasible 0.23
+gen   20 | best +0.3071 avg -2.0888 | div 0.46 | cov 0.75 det 1.00 feasible 0.45
+gen   30 | best +0.3172 avg -2.0773 | div 0.41 | cov 0.73 det 1.00 feasible 0.53
+gen   40 | best +0.3300 avg -1.2849 | div 0.41 | cov 0.72 det 1.00 feasible 0.65
+gen   50 | best +0.3318 avg -1.3804 | div 0.36 | cov 0.76 det 0.97 feasible 0.60
+gen   60 | best +0.3471 avg -1.2945 | div 0.38 | cov 0.79 det 1.00 feasible 0.72
+gen   70 | best +0.3561 avg -1.8574 | div 0.36 | cov 0.81 det 1.00 feasible 0.67
+gen   80 | best +0.3650 avg -1.1605 | div 0.38 | cov 0.83 det 1.00 feasible 0.73
+gen   90 | best +0.3650 avg -1.8073 | div 0.35 | cov 0.83 det 1.00 feasible 0.67
+gen  100 | best +0.3650 avg -1.9972 | div 0.32 | cov 0.83 det 1.00 feasible 0.68
+GA finished in 16.8s (6120 evaluations, stop: max generations)
+
+Genetic Alg.   fitness +0.3650 | coverage 0.827 detection 1.000 energy 1091 time 47.3s hazard 102.9 feasible=True (violation 0.000)
+Random search  fitness -6.5595 | coverage 0.750 detection 0.975 energy 1908 time 130.5s hazard 187.9 feasible=False (violation 0.750)
+
+Figures and results saved in outputs/

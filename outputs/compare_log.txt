@@ -1,0 +1,10 @@
+seed 0: GA +0.357 (feasible=True)  |  RS -20.822 (feasible=False)
+seed 1: GA +0.353 (feasible=True)  |  RS -17.357 (feasible=False)
+seed 2: GA +0.336 (feasible=True)  |  RS -10.710 (feasible=False)
+seed 3: GA +0.360 (feasible=True)  |  RS -24.291 (feasible=False)
+seed 4: GA +0.329 (feasible=True)  |  RS -19.003 (feasible=False)
+
+GA mean +0.347 ± 0.012 | RS mean -18.437 ± 4.498 | Welch t = 8.4
+feasible solutions: GA 5/5, RS 0/5
+Mean pairwise coverage-map Jaccard similarity between runs: GA 0.731, RS 0.504
+Overlap of GA-run coverage maps with the high-priority core (priority>0.5): 0.995 vs RS 0.781

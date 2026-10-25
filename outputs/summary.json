@@ -1,0 +1,36 @@
+{
+  "ga": {
+    "coverage": 0.8266193363406599,
+    "detection": 1.0,
+    "energy": 1090.8059613954727,
+    "time": 47.26074080967868,
+    "hazard": 102.92220587328828,
+    "nofly_hits": 0,
+    "objective": 0.3650055868984998,
+    "penalty": 0.0,
+    "violation": 0.0,
+    "feasible": true,
+    "e_norm": 0.4195407543828741,
+    "t_norm": 0.4296430982698062,
+    "h_norm": 0.13542395509643193,
+    "fitness": 0.3650055868984998
+  },
+  "random_search": {
+    "coverage": 0.7503890813101927,
+    "detection": 0.9754819874438351,
+    "energy": 1907.6186894901482,
+    "time": 130.5048888735674,
+    "hazard": 187.85885684972538,
+    "nofly_hits": 0,
+    "objective": 0.1908549475172312,
+    "penalty": 6.750367569643933,
+    "violation": 0.7500408410715481,
+    "feasible": false,
+    "e_norm": 0.7336994959577493,
+    "t_norm": 1.1864080806687947,
+    "h_norm": 0.24718270638121762,
+    "fitness": -6.559512622126702
+  },
+  "evaluations": 6120,
+  "stop_reason": "max generations"
+}

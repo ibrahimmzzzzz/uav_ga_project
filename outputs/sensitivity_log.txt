@@ -1,0 +1,12 @@
+pop_size        =20     fitness +0.315 ± 0.005 | cov 0.747 | feasible 1.00 | final diversity 0.38 | gen->90% 29
+pop_size        =40     fitness +0.320 ± 0.009 | cov 0.767 | feasible 1.00 | final diversity 0.38 | gen->90% 22
+pop_size        =80     fitness +0.344 ± 0.003 | cov 0.776 | feasible 1.00 | final diversity 0.39 | gen->90% 22
+mutation_rate   =0.01   fitness +0.351 ± 0.003 | cov 0.814 | feasible 1.00 | final diversity 0.33 | gen->90% 23
+mutation_rate   =0.05   fitness +0.343 ± 0.005 | cov 0.782 | feasible 1.00 | final diversity 0.32 | gen->90% 22
+mutation_rate   =0.12   fitness +0.320 ± 0.009 | cov 0.767 | feasible 1.00 | final diversity 0.38 | gen->90% 22
+mutation_rate   =0.3    fitness +0.289 ± 0.012 | cov 0.761 | feasible 1.00 | final diversity 0.48 | gen->90% 24
+tournament_size =1      fitness +0.285 ± 0.009 | cov 0.698 | feasible 1.00 | final diversity 0.45 | gen->90% 25
+tournament_size =2      fitness +0.315 ± 0.006 | cov 0.790 | feasible 1.00 | final diversity 0.39 | gen->90% 20
+tournament_size =3      fitness +0.320 ± 0.009 | cov 0.767 | feasible 1.00 | final diversity 0.38 | gen->90% 22
+tournament_size =6      fitness +0.347 ± 0.009 | cov 0.796 | feasible 1.00 | final diversity 0.31 | gen->90% 20
+saved outputs/sensitivity.csv and 05_sensitivity.png
